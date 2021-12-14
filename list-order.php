@@ -40,7 +40,7 @@ $dateCount = $stmt->rowCount();
                 <div class="col-lg-12">
                     <div class="main-card mb-3 card">
                         <div class="card-body">
-                            <h5 class="card-title">評價清單</h5>
+                            <h5 class="card-title">訂單清單</h5>
                             <table class="mb-0 table mydatatable">
                                 <thead>
                                 <tr>
